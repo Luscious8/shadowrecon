@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # CyberSleuth Pro - Advanced Web Security Assessment Framework
-# By CyberWarLab
+# By Luscious
 # Version 5.0 - Professional Edition
 
 import os
@@ -53,7 +53,7 @@ init(autoreset=True)
 
 # --- Constants ---
 VERSION = "5.0 Professional"
-AUTHOR = "CyberwarLab"
+AUTHOR = "Luscious"
 BANNER_NAME = "CyberSleuth Pro"
 REPORT_DIR = "reports"
 DB_FILE = "vulnerabilities.db"
